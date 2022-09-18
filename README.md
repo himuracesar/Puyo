@@ -6,3 +6,7 @@ Its a simple Puyo game mechanic.
 This was my exam to enter to GameLoft Mexico.
 
 It is not a complete game it is just contains the core mechanic.
+
+Requirements
+-------------------------------
+- Java 2 Standard Edition (J2SE) version 1.5 or later. 
